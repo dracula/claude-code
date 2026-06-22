@@ -1,19 +1,11 @@
-### [Foobar](https://foobar.com)
+### [Claude Code](https://claude.com/product/claude-code)
 
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+Dracula is built into Claude Code — no files to download or install.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Open Claude and go to the **Code** tab;
+2. Click your profile in the bottom-left corner and select **Settings**;
+3. Select **Claude Code** in the sidebar;
+4. Under **Code appearance**, choose **Dracula** from the dropdown;
+5. Boom! It's working ✨
