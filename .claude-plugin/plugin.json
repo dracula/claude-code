@@ -1,0 +1,13 @@
+{
+  "name": "dracula",
+  "description": "Dark theme for Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dracula Theme",
+    "url": "https://draculatheme.com"
+  },
+  "homepage": "https://draculatheme.com/claude-code",
+  "repository": "https://github.com/dracula/claude-code",
+  "license": "MIT",
+  "keywords": ["dracula", "theme", "dark"]
+}
