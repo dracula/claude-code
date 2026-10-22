@@ -1,0 +1,15 @@
+{
+  "name": "dracula",
+  "description": "Dracula theme for the Claude Code CLI",
+  "owner": {
+    "name": "Dracula Theme",
+    "url": "https://draculatheme.com"
+  },
+  "plugins": [
+    {
+      "name": "dracula",
+      "source": "./",
+      "description": "Dark theme for Claude Code"
+    }
+  ]
+}
